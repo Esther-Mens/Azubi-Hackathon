@@ -40,3 +40,5 @@ General descriptions of the datasets ie. the different files, what each column r
   1. [General Overview](https://github.com/Jefferson-Henrique/GetOldTweets-python/ "General Overview")
   2. [Hashtag Analysis](https://github.com/Jefferson-Henrique/GetOldTweets-python/ "Hashtag Analysis")
   3. [Sentiment Analysis](https://github.com/Jefferson-Henrique/GetOldTweets-python/ "Sentiment Analysis")
+
+## Project Summary and conclusion
