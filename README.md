@@ -10,5 +10,29 @@ the Azubi Africa Graduate Programme
 
 * **Sentiment Analysis**: It is the interpretation and classification of emotions(positive, negative or neutral) within text data using text analysis techniques. Sentiment analysis is helpful in allowing organizations to identify the public reaction to product, a message or an ideology, etc. For a political party, they can use sentiment analysis to to identify their campaign strategy and manifesto altogether
 
-## Data
+## Data Gathering
 Data for the Analysis were gathered from twitter. Initially we created a Twitter Developer account, but there are limitations to it. You can not mine tweets older than 7 days, using twitter's rest API, unless you pay and even when you do, you are restricted to a limit of 100 tweets daily. Through research we came accross [Optimized-modified-GetOldTweets3-OMGOT](https://github.com/marquisvictor/Optimized-Modified-GetOldTweets3-OMGOT "Optimized-modified-GetOldTweets3-OMGOT") which is an improvement  of the original GetOldTweets Library by [Jefferson-Henrique](https://github.com/Jefferson-Henrique/GetOldTweets-python/ "Jefferson-Henrique"). With this we were able to bypass the limitations of using tweepy. Downloaded data and brief descriptions of them can be found on this [link](https://github.com/mickysekyere/Azubi-Hackathon/blob/master/Data/Data.md "link").
+
+## Data Analysis
+General descriptions of the datasets ie. the different files, what each column represent, etc has already been discussed in the **Data Gathering** portion of this README. Our analysis was done on three folds each suitable to the type of data collected. 
+  ### Analysis 1 : General Overview
+  In this notebook, we analysed tweets from some political accounts from the NPP and NDC. 6 Specific account whose tweet were analysed are the current president 
+  HE. Nana Akufo-Addo, his running mate Dr. M. Bawumia, the official twitter handle of the New Patriotic Party, the opposition flagbearer Ex President John D. Mahama,
+  his running mate Prof. Jane Naana O. Agyemang and the official twitter handle of the National Democratic Congress.
+  Emphasis was laid on  identifying
+  * How the public react to tweets from NPP and NDC based account by considering the retweets, favourites (likes) and the number of comment on them
+  * Time series analysis detailing observable changes to how the political parties are using social media platforms as the election draws nearer
+  * Word Cloud which gives us information on the kind of message the political parties are spreading.
+  * General Sentiment to determine the amount of positivity in the tweets of political leaders in Ghana
+  
+  ### Analysis 2 : Hashtag Analysis
+  In this notebook, we analysed several tweets containing the hashtags of the two political parties. For the NPP, tweets sampled contained various hashtags such as
+  **#4More4Nana**, **4MoreToDoMore4You** whiles for NDC, their trending hashtag is **JMandJane2020**, **JDMahama2020** among others. The focus of our analysis was in identifying
+  * The trend in the growing number of tweets containing hashtags pertaining to a political party
+  * The variation in the different number of people who activily follows each political party
+  * On What days where there a significant amount in the hastag tweets for a particular party and what contributed to such spikes.
+  
+  ### Analysis 3 : Sentiment Analysis
+  In this notebook, we analysed tweets which mentions the flagbearers of the two political parties and performed a sentiment analysis on them using textblob. The insight
+  we obtained was fascinating as it was different from the general notion we all had.
+   
