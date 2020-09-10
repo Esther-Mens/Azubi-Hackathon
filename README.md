@@ -27,12 +27,16 @@ General descriptions of the datasets ie. the different files, what each column r
   
   ### Analysis 2 : Hashtag Analysis
   In this notebook, we analysed several tweets containing the hashtags of the two political parties. For the NPP, tweets sampled contained various hashtags such as
-  **#4More4Nana**, **4MoreToDoMore4You** whiles for NDC, their trending hashtag is **JMandJane2020**, **JDMahama2020** among others. The focus of our analysis was in identifying
+  **#4More4Nana**, **4MoreToDoMore4You** whiles for NDC, their trending hashtag is **#JMandJane2020**, **#JDMahama2020** among others. The focus of our analysis was in  identifying
   * The trend in the growing number of tweets containing hashtags pertaining to a political party
   * The variation in the different number of people who activily follows each political party
-  * On What days where there a significant amount in the hastag tweets for a particular party and what contributed to such spikes.
+  * On what days where there a significant amount in the hastag tweets for a particular party and what contributed to such spikes.
   
   ### Analysis 3 : Sentiment Analysis
   In this notebook, we analysed tweets which mentions the flagbearers of the two political parties and performed a sentiment analysis on them using textblob. The insight
   we obtained was fascinating as it was different from the general notion we all had.
-   
+  
+  **Links to notebooks**
+  1. [General Overview](https://github.com/Jefferson-Henrique/GetOldTweets-python/ "General Overview")
+  2. [Hashtag Analysis](https://github.com/Jefferson-Henrique/GetOldTweets-python/ "Hashtag Analysis")
+  3. [Sentiment Analysis](https://github.com/Jefferson-Henrique/GetOldTweets-python/ "Sentiment Analysis")
