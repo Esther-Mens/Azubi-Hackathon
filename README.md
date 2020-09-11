@@ -42,3 +42,4 @@ General descriptions of the datasets ie. the different files, what each column r
   3. [Sentiment Analysis](https://github.com/Jefferson-Henrique/GetOldTweets-python/ "Sentiment Analysis")
 
 ## Project Summary and conclusion
+summary and conclusion of project can be found in ouur documentation in our [presentatiom](https://github.com/mickysekyere/Azubi-Hackathon/blob/master/hackathon%202020.pptx "presentation") as well as in our **documentation**
