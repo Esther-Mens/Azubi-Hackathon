@@ -37,9 +37,9 @@ General descriptions of the datasets ie. the different files, what each column r
   we obtained was fascinating as it was different from the general notion we all had.
   
   **Links to notebooks**
-  1. [General Overview](https://github.com/Jefferson-Henrique/GetOldTweets-python/ "General Overview")
-  2. [Hashtag Analysis](https://github.com/Jefferson-Henrique/GetOldTweets-python/ "Hashtag Analysis")
-  3. [Sentiment Analysis](https://github.com/Jefferson-Henrique/GetOldTweets-python/ "Sentiment Analysis")
+  1. [General Overview](https://github.com/mickysekyere/Azubi-Hackathon/blob/master/code_files/General%20Overview.ipynb "General Overview")
+  2. [Hashtag Analysis](https://github.com/mickysekyere/Azubi-Hackathon/blob/master/code_files/Hashtags%20Analysis.ipynb "Hashtag Analysis")
+  3. [Sentiment Analysis](https://github.com/mickysekyere/Azubi-Hackathon/blob/master/code_files/Sentiment%20Analysis.ipynb "Sentiment Analysis")
 
 ## Project Summary and conclusion
 Summary and conclusion of project can be found in our [Presentation](https://github.com/mickysekyere/Azubi-Hackathon/blob/master/hackathon%202020.pptx "Presentation") as well as in our [Documentation](https://github.com/mickysekyere/Azubi-Hackathon/blob/master/Hackathonword%202020.docx "Documentation")
